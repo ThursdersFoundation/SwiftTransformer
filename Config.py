@@ -1,0 +1,5 @@
+D_MODEL = 128
+N_HEADS = 4
+NUM_LAYERS = 2
+LR = 1e-3
+EPOCHS = 10
