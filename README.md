@@ -1,6 +1,6 @@
 # ⚡ SwiftTransformer V1
 
-> **Minimal Transformer for fast AI experimentation.**
+> ** Transformer for fast AI experimentation.**
 
 SwiftTransformer V1 is a lightweight and efficient Transformer-based model designed for rapid experimentation, learning, and prototyping.
 Built with simplicity and scalability in mind, it provides a clean implementation of core attention mechanisms without unnecessary complexity.
